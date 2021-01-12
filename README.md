@@ -7,6 +7,8 @@ This list will most certainly miss things, so please feel free to add a pull req
 
 Inverse graphics is a super exciting field, and hope this awesome list gets you as excited about some of these research directions as I am! 
 
+{:toc}
+
 # What is inverse graphics? 
 
 According to Yildrim et al. in their [2015 Cog Sci paper](http://www.mit.edu/~ilkery/papers/yildirimetal_cogsci15.pdf) 
@@ -30,9 +32,9 @@ Adapted from the [awesome-implicit-representations](https://github.com/vsitzmann
 
 ### Early works that learn a recognition model to invert the generator 
 
-[Analysis-by-Synthesis by learning to invert generative black boxes](http://www.cs.toronto.edu/~fritz/absps/vinodicann.pdf) (Nair, Susskind, & Hinton, 2008) 
-
 [The Helmholtz Machine](https://www.cs.toronto.edu/~hinton/absps/helmholtz.pdf) (Dayan et al., 1995) 
+
+[Analysis-by-synthesis by learning to invert generative black boxes](http://www.cs.toronto.edu/~fritz/absps/vinodicann.pdf) (Nair, Susskind, & Hinton, 2008) 
 
 # General Resources 
 
