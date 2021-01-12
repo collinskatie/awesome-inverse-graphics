@@ -7,7 +7,7 @@ Inverse graphics is a super exciting field, and hope this awesome list gets you 
 
 # What is inverse graphics? 
 
-According to Yildrim et al. in their 2015 Cog Sci [paper](http://www.mit.edu/~ilkery/papers/yildirimetal_cogsci15.pdf) 
+According to Yildrim et al. in their [2015 Cog Sci paper](http://www.mit.edu/~ilkery/papers/yildirimetal_cogsci15.pdf) 
 
 > The analysis-by-synthesis or “vision as inverse graphics” approach presents one way to think about how vision can be so rich in its content. The perceptual system models the generative processes by which natural scenes are constructed, as well as the process by which images are formed from scenes; this is a mechanism for the hypothetical “synthesis” of natural images, in the style of computer graphics. Perception (or “analysis”) is then the search for or inference to the best explanation of an observed image in terms of this synthesis model: What would have been the most likely underlying scene that could have produced this image?
 
