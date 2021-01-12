@@ -17,7 +17,7 @@ According to Yildrim et al. in their [2015 Cog Sci paper](http://www.mit.edu/~il
 
 ## Foundations
 
-[The Helmholtz Machine](https://www.cs.toronto.edu/~hinton/absps/helmholtz.pdf) (Dayan et al., 1995) 
+[The helmholtz machine](https://www.cs.toronto.edu/~hinton/absps/helmholtz.pdf) (Dayan et al., 1995) 
 
 [Analysis-by-synthesis by learning to invert generative black boxes](http://www.cs.toronto.edu/~fritz/absps/vinodicann.pdf) (Nair, Susskind, & Hinton, 2008) 
 
@@ -26,9 +26,11 @@ Adapted from the [awesome-implicit-representations](https://github.com/vsitzmann
 
 ## Uncategorized 
 
-[Efficient inverse graphics in biological face professing](https://advances.sciencemag.org/content/6/10/eaax5979) (Yildrim et al., 2020) 
-
 [Efficient analysis-by-snythesis in vision: A computational framework, behavioral tests, and comparison with neural representations](http://www.mit.edu/~ilkery/papers/yildirimetal_cogsci15.pdf) (Yildrim et al., 2015) 
+
+[Vision-as-Inverse-Graphics: obtaining a rich 3D explanation of a scene from a single image](https://openaccess.thecvf.com/content_ICCV_2017_workshops/papers/w17/Romaszko_Vision-As-Inverse-Graphics_Obtaining_a_ICCV_2017_paper.pdf) (Romaszko et al., 2017)
+
+[Efficient inverse graphics in biological face professing](https://advances.sciencemag.org/content/6/10/eaax5979) (Yildrim et al., 2020) 
 
 # General Resources 
 
