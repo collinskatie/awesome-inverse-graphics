@@ -9,11 +9,13 @@ Inverse graphics is a super exciting field, and hope this awesome list gets you 
 
 # Papers 
 
-**Efficient inverse graphics in biological face professing**
+## Classics
 
-Ilker Yildrim, Mario Belledone, Winrich Friedwald, Josh Tenenbaum 
+## Inverse graphics with implicit representations 
 
-Science Advances, 2020; [Paper](https://advances.sciencemag.org/content/6/10/eaax5979)
+## Uncategorized 
+
+[Efficient inverse graphics in biological face professing](https://advances.sciencemag.org/content/6/10/eaax5979) (Yildrim et al., 2020) 
 
 **
 
