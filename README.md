@@ -7,8 +7,6 @@ This list will most certainly miss things, so please feel free to add a pull req
 
 Inverse graphics is a super exciting field, and hope this awesome list gets you as excited about some of these research directions as I am! 
 
-{:toc}
-
 # What is inverse graphics? 
 
 According to Yildrim et al. in their [2015 Cog Sci paper](http://www.mit.edu/~ilkery/papers/yildirimetal_cogsci15.pdf) 
@@ -19,7 +17,9 @@ According to Yildrim et al. in their [2015 Cog Sci paper](http://www.mit.edu/~il
 
 ## Foundations
 
-## 
+[The Helmholtz Machine](https://www.cs.toronto.edu/~hinton/absps/helmholtz.pdf) (Dayan et al., 1995) 
+
+[Analysis-by-synthesis by learning to invert generative black boxes](http://www.cs.toronto.edu/~fritz/absps/vinodicann.pdf) (Nair, Susskind, & Hinton, 2008) 
 
 ## Inverse graphics with implicit representations 
 Adapted from the [awesome-implicit-representations](https://github.com/vsitzmann/awesome-implicit-representations) list made by Vincent Sitzmann! 
@@ -29,12 +29,6 @@ Adapted from the [awesome-implicit-representations](https://github.com/vsitzmann
 [Efficient inverse graphics in biological face professing](https://advances.sciencemag.org/content/6/10/eaax5979) (Yildrim et al., 2020) 
 
 [Efficient analysis-by-snythesis in vision: A computational framework, behavioral tests, and comparison with neural representations](http://www.mit.edu/~ilkery/papers/yildirimetal_cogsci15.pdf) (Yildrim et al., 2015) 
-
-### Early works that learn a recognition model to invert the generator 
-
-[The Helmholtz Machine](https://www.cs.toronto.edu/~hinton/absps/helmholtz.pdf) (Dayan et al., 1995) 
-
-[Analysis-by-synthesis by learning to invert generative black boxes](http://www.cs.toronto.edu/~fritz/absps/vinodicann.pdf) (Nair, Susskind, & Hinton, 2008) 
 
 # General Resources 
 
