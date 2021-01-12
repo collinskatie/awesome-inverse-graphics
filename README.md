@@ -28,7 +28,11 @@ Adapted from the [awesome-implicit-representations](https://github.com/vsitzmann
 
 [Efficient analysis-by-snythesis in vision: A computational framework, behavioral tests, and comparison with neural representations](http://www.mit.edu/~ilkery/papers/yildirimetal_cogsci15.pdf) (Yildrim et al., 2015) 
 
-**
+### Early works that learn a recognition model to invert the generator 
+
+[Analysis-by-Synthesis by learning to invert generative black boxes](http://www.cs.toronto.edu/~fritz/absps/vinodicann.pdf) (Nair, Susskind, & Hinton, 2008) 
+
+[The Helmholtz Machine](https://www.cs.toronto.edu/~hinton/absps/helmholtz.pdf) (Dayan et al., 1995) 
 
 # General Resources 
 
