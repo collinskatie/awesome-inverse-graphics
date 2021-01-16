@@ -38,9 +38,13 @@ Adapted from the [awesome-implicit-representations](https://github.com/vsitzmann
 
 [Vision-as-Inverse-Graphics: Obtaining a Rich 3D Explanation of a Scene from a Single Image](https://openaccess.thecvf.com/content_ICCV_2017_workshops/papers/w17/Romaszko_Vision-As-Inverse-Graphics_Obtaining_a_ICCV_2017_paper.pdf) (Romaszko et al., 2017)
 
+[Adversarial Inverse Graphics Networks: Learning 2D-to-3D Lifting and Image-to-Image Translation from Unpaired Supervision](https://openaccess.thecvf.com/content_ICCV_2017/papers/Tung_Adversarial_Inverse_Graphics_ICCV_2017_paper.pdf) (Tung et al., 2017) 
+
 [3D-Aware Scene Manipulation via Inverse Graphics](https://proceedings.neurips.cc/paper/2018/file/64223ccf70bbb65a3a4aceac37e21016-Paper.pdf) (Yao et al., 2018) 
 
 [Efficient inverse graphics in biological face professing](https://advances.sciencemag.org/content/6/10/eaax5979) (Yildrim et al., 2020) 
+
+[Deep Convolutional Inverse Graphics Network](http://papers.neurips.cc/paper/5851-deep-convolutional-inverse-graphics-network.pdf)(Kulkarni et al., YEAR?)
 
 # General Resources 
 
