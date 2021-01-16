@@ -34,6 +34,8 @@ Adapted from the [awesome-implicit-representations](https://github.com/vsitzmann
 
 [Efficient analysis-by-snythesis in vision: A computational framework, behavioral tests, and comparison with neural representations](http://www.mit.edu/~ilkery/papers/yildirimetal_cogsci15.pdf) (Yildrim et al., 2015) 
 
+[Deep Convolutional Inverse Graphics Network](http://papers.neurips.cc/paper/5851-deep-convolutional-inverse-graphics-network.pdf)(Kulkarni et al., 2015)
+
 [Neural Scene De-Rendering](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8100227) (Wu, Tenenbaum, & Kohli, 2017) 
 
 [Vision-as-Inverse-Graphics: Obtaining a Rich 3D Explanation of a Scene from a Single Image](https://openaccess.thecvf.com/content_ICCV_2017_workshops/papers/w17/Romaszko_Vision-As-Inverse-Graphics_Obtaining_a_ICCV_2017_paper.pdf) (Romaszko et al., 2017)
@@ -43,8 +45,6 @@ Adapted from the [awesome-implicit-representations](https://github.com/vsitzmann
 [3D-Aware Scene Manipulation via Inverse Graphics](https://proceedings.neurips.cc/paper/2018/file/64223ccf70bbb65a3a4aceac37e21016-Paper.pdf) (Yao et al., 2018) 
 
 [Efficient inverse graphics in biological face professing](https://advances.sciencemag.org/content/6/10/eaax5979) (Yildrim et al., 2020) 
-
-[Deep Convolutional Inverse Graphics Network](http://papers.neurips.cc/paper/5851-deep-convolutional-inverse-graphics-network.pdf)(Kulkarni et al., YEAR?)
 
 # General Resources 
 
