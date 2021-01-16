@@ -23,7 +23,7 @@ According to Yildrim et al. in their [2015 Cog Sci paper](http://www.mit.edu/~il
 
 [Vision as Bayesian Inference: Analysis by Synthesis?](https://escholarship.org/content/qt8cs5815x/qt8cs5815x.pdf?t=lnqqoj) (Yuille & Kersten, 2006) 
 
-[Analysis by Snythesis: A (Re-)Emerging Program of Research for Language and Vision](http://www.socsci.uci.edu/~lpearl/colareadinggroup/readings/BeverPoeppel2010_AnalysisBySynthesis.pdf) (Bever & Poeppel, 2010) 
+[Analysis by Snythesis: A (Re-)Emerging Program of Research for Language and Vision (See Section 7)](http://www.socsci.uci.edu/~lpearl/colareadinggroup/readings/BeverPoeppel2010_AnalysisBySynthesis.pdf) (Bever & Poeppel, 2010) 
 
 ## Inverse graphics with implicit representations 
 Adapted from the [awesome-implicit-representations](https://github.com/vsitzmann/awesome-implicit-representations) list made by Vincent Sitzmann! 
@@ -32,9 +32,17 @@ Adapted from the [awesome-implicit-representations](https://github.com/vsitzmann
 
 [Analysis-by-Synthesis by Learning to Invert Generative Black Boxes](http://www.cs.toronto.edu/~fritz/absps/vinodicann.pdf) (Nair, Susskind, & Hinton, 2008) 
 
+[Approximate Bayesian Image Interpretation using Generative Probabilistic Graphics Programs](https://proceedings.neurips.cc/paper/2013/file/fa14d4fe2f19414de3ebd9f63d5c0169-Paper.pdf) (Mansinghka et al., 2013)  
+
+[The Informed Sampler: A Discriminative Approach to Bayesian Inference in Generative Computer Vision Models](https://arxiv.org/pdf/1402.0859.pdf) (Jampani et al., 2014) 
+
+[Inverse Graphics with Probabilistc CAD Models](https://arxiv.org/pdf/1407.1339.pdf) (Kulkarni et al., 2014) 
+
 [Efficient analysis-by-snythesis in vision: A computational framework, behavioral tests, and comparison with neural representations](http://www.mit.edu/~ilkery/papers/yildirimetal_cogsci15.pdf) (Yildrim et al., 2015) 
 
-[Deep Convolutional Inverse Graphics Network](http://papers.neurips.cc/paper/5851-deep-convolutional-inverse-graphics-network.pdf)(Kulkarni et al., 2015)
+[Picture: A Probabilistic Programming Language for Scene Perception](https://mrkulk.github.io/www_cvpr15/1999.pdf) (Kulkarni et al., 2015) 
+
+[Deep Convolutional Inverse Graphics Network](http://papers.neurips.cc/paper/5851-deep-convolutional-inverse-graphics-network.pdf) (Kulkarni et al., 2015)
 
 [Neural Scene De-Rendering](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8100227) (Wu, Tenenbaum, & Kohli, 2017) 
 
@@ -45,6 +53,10 @@ Adapted from the [awesome-implicit-representations](https://github.com/vsitzmann
 [3D-Aware Scene Manipulation via Inverse Graphics](https://proceedings.neurips.cc/paper/2018/file/64223ccf70bbb65a3a4aceac37e21016-Paper.pdf) (Yao et al., 2018) 
 
 [Efficient inverse graphics in biological face professing](https://advances.sciencemag.org/content/6/10/eaax5979) (Yildrim et al., 2020) 
+
+[Inverse Graphics GAN: Learning to Generate 3D Shapes from Unstructured 2D Data](https://arxiv.org/pdf/2002.12674.pdf) (Lunz et al., 2020)
+
+[Physics-as-Inverse Graphics: Unsupervised Physical Parameter Estimation from Video](https://arxiv.org/pdf/1905.11169.pdf) (Jaques, Burke, & Hospedales, 2020)
 
 # General Resources 
 
