@@ -25,6 +25,8 @@ According to Yildrim et al. in their [2015 Cog Sci paper](http://www.mit.edu/~il
 
 [Vision as Bayesian Inference: Analysis by Synthesis?](https://escholarship.org/content/qt8cs5815x/qt8cs5815x.pdf?t=lnqqoj) (Yuille & Kersten, 2006) 
 
+[A Stochastic Grammar of Images](https://dash.harvard.edu/bitstream/handle/1/3637153/Mumford_StochaGrammImage.pdf?sequence%3D2) (Zhu & Momford, 2007)
+
 [Analysis-by-Synthesis by Learning to Invert Generative Black Boxes](http://www.cs.toronto.edu/~fritz/absps/vinodicann.pdf) (Nair, Susskind, & Hinton, 2008) 
 
 [Analysis by Snythesis: A (Re-)Emerging Program of Research for Language and Vision (See Section 7)](http://www.socsci.uci.edu/~lpearl/colareadinggroup/readings/BeverPoeppel2010_AnalysisBySynthesis.pdf) (Bever & Poeppel, 2010) 
@@ -41,6 +43,12 @@ According to Yildrim et al. in their [2015 Cog Sci paper](http://www.mit.edu/~il
 
 [Deep Convolutional Inverse Graphics Network](http://papers.neurips.cc/paper/5851-deep-convolutional-inverse-graphics-network.pdf) (Kulkarni et al., 2015)
 
+[Multiple object recognition with visual attention]() (Bai et al., 2015) 
+
+[Perceiving Fully Occluded Objects via Physical Simulation](http://www.mit.edu/~ilkery/papers/perceiving-fully-occluded.pdf) (Yildirim, Siegel, & Tenenbaum, 2016)
+
+[Attend, Infer, Repeat: Fast Scene Understanding with Generative Models](https://arxiv.org/pdf/1603.08575.pdf) (Eslami et al., 2016)
+
 [3D-R2N2: A Unified Approach for Single and Multi-view 3D Object Reconstruction](https://arxiv.org/pdf/1604.00449.pdf) (Choy et al., 2016) (fits here?)
 
 [Neural Scene De-Rendering](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8100227) (Wu, Tenenbaum, & Kohli, 2017) 
@@ -49,7 +57,11 @@ According to Yildrim et al. in their [2015 Cog Sci paper](http://www.mit.edu/~il
 
 [Adversarial Inverse Graphics Networks: Learning 2D-to-3D Lifting and Image-to-Image Translation from Unpaired Supervision](https://openaccess.thecvf.com/content_ICCV_2017/papers/Tung_Adversarial_Inverse_Graphics_ICCV_2017_paper.pdf) (Tung et al., 2017) 
 
+[Learning to See Physics via Visual De-animation](https://jiajunwu.com/papers/vda_nips.pdf) (Wu et al., 2017) 
+
 [3D-Aware Scene Manipulation via Inverse Graphics](https://proceedings.neurips.cc/paper/2018/file/64223ccf70bbb65a3a4aceac37e21016-Paper.pdf) (Yao et al., 2018) 
+
+[An integrative computational architecture for object-driven cortex](http://cncl.yale.edu/sites/default/files/pub-downloads/YildirimetalCONEUR.pdf) (Yildirim et al., 2019) 
 
 [Efficient inverse graphics in biological face professing](https://advances.sciencemag.org/content/6/10/eaax5979) (Yildirim et al., 2020) 
 
@@ -62,8 +74,6 @@ According to Yildrim et al. in their [2015 Cog Sci paper](http://www.mit.edu/~il
 [Inverse Graphics GAN: Learning to Generate 3D Shapes from Unstructured 2D Data](https://arxiv.org/pdf/2002.12674.pdf) (Lunz et al., 2020)
 
 [Physics-as-Inverse Graphics: Unsupervised Physical Parameter Estimation from Video](https://arxiv.org/pdf/1905.11169.pdf) (Jaques, Burke, & Hospedales, 2020)
-
-[Perceiving Fully Occluded Objects via Physical Simulation](http://www.mit.edu/~ilkery/papers/perceiving-fully-occluded.pdf) (Yildirim, Siegel, & Tenenbaum, ??)
 
 # General Resources 
 
