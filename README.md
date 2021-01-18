@@ -25,8 +25,6 @@ According to Yildrim et al. in their [2015 Cog Sci paper](http://www.mit.edu/~il
 
 [Vision as Bayesian Inference: Analysis by Synthesis?](https://escholarship.org/content/qt8cs5815x/qt8cs5815x.pdf?t=lnqqoj) (Yuille & Kersten, 2006) 
 
-[A Stochastic Grammar of Images](https://dash.harvard.edu/bitstream/handle/1/3637153/Mumford_StochaGrammImage.pdf?sequence%3D2) (Zhu & Momford, 2007)
-
 [Analysis-by-Synthesis by Learning to Invert Generative Black Boxes](http://www.cs.toronto.edu/~fritz/absps/vinodicann.pdf) (Nair, Susskind, & Hinton, 2008) 
 
 [Analysis by Snythesis: A (Re-)Emerging Program of Research for Language and Vision (See Section 7)](http://www.socsci.uci.edu/~lpearl/colareadinggroup/readings/BeverPoeppel2010_AnalysisBySynthesis.pdf) (Bever & Poeppel, 2010) 
@@ -43,8 +41,6 @@ According to Yildrim et al. in their [2015 Cog Sci paper](http://www.mit.edu/~il
 
 [Deep Convolutional Inverse Graphics Network](http://papers.neurips.cc/paper/5851-deep-convolutional-inverse-graphics-network.pdf) (Kulkarni et al., 2015)
 
-[Multiple object recognition with visual attention]() (Bai et al., 2015) 
-
 [Perceiving Fully Occluded Objects via Physical Simulation](http://www.mit.edu/~ilkery/papers/perceiving-fully-occluded.pdf) (Yildirim, Siegel, & Tenenbaum, 2016)
 
 [Attend, Infer, Repeat: Fast Scene Understanding with Generative Models](https://arxiv.org/pdf/1603.08575.pdf) (Eslami et al., 2016)
@@ -59,7 +55,9 @@ According to Yildrim et al. in their [2015 Cog Sci paper](http://www.mit.edu/~il
 
 [Learning to See Physics via Visual De-animation](https://jiajunwu.com/papers/vda_nips.pdf) (Wu et al., 2017) 
 
-[3D-Aware Scene Manipulation via Inverse Graphics](https://proceedings.neurips.cc/paper/2018/file/64223ccf70bbb65a3a4aceac37e21016-Paper.pdf) (Yao et al., 2018) 
+[3D-Aware Scene Manipulation via Inverse Graphics](https://proceedings.neurips.cc/paper/2018/file/64223ccf70bbb65a3a4aceac37e21016-Paper.pdf) (Yao et al., 2018)
+
+[Neurocomputational Modeling of Human Physical Scene Understanding](http://cncl.yale.edu/sites/default/files/pub-downloads/CCN_2018_human_galileo.pdf) (Yildirim et al., 2018)
 
 [An integrative computational architecture for object-driven cortex](http://cncl.yale.edu/sites/default/files/pub-downloads/YildirimetalCONEUR.pdf) (Yildirim et al., 2019) 
 
@@ -78,6 +76,11 @@ According to Yildrim et al. in their [2015 Cog Sci paper](http://www.mit.edu/~il
 # General Resources 
 
 [Curated List of 3D Morphable Models](https://github.com/3d-morphable-models/curated-list-of-awesome-3D-Morphable-Model-software-and-data) 
+
+[Pattern Synthesis](https://www.springer.com/gp/book/9780387901749) (Grenander, 1976) 
+
+[A Stochastic Grammar of Images](https://dash.harvard.edu/bitstream/handle/1/3637153/Mumford_StochaGrammImage.pdf?sequence%3D2) (Zhu & Momford, 2007)
+
 
 # Talks + Videos  
 
