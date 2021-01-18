@@ -19,9 +19,6 @@ According to Yildrim et al. in their [2015 Cog Sci paper](http://www.mit.edu/~il
 
 ## Foundations
 
-## Inverse graphics with implicit representations 
-Adapted from the [awesome-implicit-representations](https://github.com/vsitzmann/awesome-implicit-representations) list made by Vincent Sitzmann! 
-
 ## Uncategorized 
 
 [The Helmholtz Machine](https://www.cs.toronto.edu/~hinton/absps/helmholtz.pdf) (Dayan et al., 1995) 
