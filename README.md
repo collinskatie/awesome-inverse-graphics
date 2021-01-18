@@ -19,18 +19,18 @@ According to Yildrim et al. in their [2015 Cog Sci paper](http://www.mit.edu/~il
 
 ## Foundations
 
-[The Helmholtz Machine](https://www.cs.toronto.edu/~hinton/absps/helmholtz.pdf) (Dayan et al., 1995) 
-
-[Vision as Bayesian Inference: Analysis by Synthesis?](https://escholarship.org/content/qt8cs5815x/qt8cs5815x.pdf?t=lnqqoj) (Yuille & Kersten, 2006) 
-
-[Analysis by Snythesis: A (Re-)Emerging Program of Research for Language and Vision (See Section 7)](http://www.socsci.uci.edu/~lpearl/colareadinggroup/readings/BeverPoeppel2010_AnalysisBySynthesis.pdf) (Bever & Poeppel, 2010) 
-
 ## Inverse graphics with implicit representations 
 Adapted from the [awesome-implicit-representations](https://github.com/vsitzmann/awesome-implicit-representations) list made by Vincent Sitzmann! 
 
 ## Uncategorized 
 
+[The Helmholtz Machine](https://www.cs.toronto.edu/~hinton/absps/helmholtz.pdf) (Dayan et al., 1995) 
+
+[Vision as Bayesian Inference: Analysis by Synthesis?](https://escholarship.org/content/qt8cs5815x/qt8cs5815x.pdf?t=lnqqoj) (Yuille & Kersten, 2006) 
+
 [Analysis-by-Synthesis by Learning to Invert Generative Black Boxes](http://www.cs.toronto.edu/~fritz/absps/vinodicann.pdf) (Nair, Susskind, & Hinton, 2008) 
+
+[Analysis by Snythesis: A (Re-)Emerging Program of Research for Language and Vision (See Section 7)](http://www.socsci.uci.edu/~lpearl/colareadinggroup/readings/BeverPoeppel2010_AnalysisBySynthesis.pdf) (Bever & Poeppel, 2010) 
 
 [Approximate Bayesian Image Interpretation using Generative Probabilistic Graphics Programs](https://proceedings.neurips.cc/paper/2013/file/fa14d4fe2f19414de3ebd9f63d5c0169-Paper.pdf) (Mansinghka et al., 2013)  
 
