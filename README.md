@@ -33,6 +33,8 @@ According to Yildrim et al. in their [2015 Cog Sci paper](http://www.mit.edu/~il
 
 [Approximate Bayesian Image Interpretation using Generative Probabilistic Graphics Programs](https://proceedings.neurips.cc/paper/2013/file/fa14d4fe2f19414de3ebd9f63d5c0169-Paper.pdf) (Mansinghka et al., 2013)  
 
+[Whatever next? Predictive brains, situated agets, and the future of cognitive science](https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/whatever-next-predictive-brains-situated-agents-and-the-future-of-cognitive-science/33542C736E17E3D1D44E8D03BE5F4CD9) (Clark, 2013)
+
 [The Informed Sampler: A Discriminative Approach to Bayesian Inference in Generative Computer Vision Models](https://arxiv.org/pdf/1402.0859.pdf) (Jampani et al., 2014) 
 
 [Inverse Graphics with Probabilistc CAD Models](https://arxiv.org/pdf/1407.1339.pdf) (Kulkarni et al., 2014) 
