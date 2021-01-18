@@ -38,7 +38,7 @@ Adapted from the [awesome-implicit-representations](https://github.com/vsitzmann
 
 [Inverse Graphics with Probabilistc CAD Models](https://arxiv.org/pdf/1407.1339.pdf) (Kulkarni et al., 2014) 
 
-[Efficient analysis-by-snythesis in vision: A computational framework, behavioral tests, and comparison with neural representations](http://www.mit.edu/~ilkery/papers/yildirimetal_cogsci15.pdf) (Yildrim et al., 2015) 
+[Efficient analysis-by-snythesis in vision: A computational framework, behavioral tests, and comparison with neural representations](http://www.mit.edu/~ilkery/papers/yildirimetal_cogsci15.pdf) (Yildirim et al., 2015) 
 
 [Picture: A Probabilistic Programming Language for Scene Perception](https://mrkulk.github.io/www_cvpr15/1999.pdf) (Kulkarni et al., 2015) 
 
@@ -54,7 +54,7 @@ Adapted from the [awesome-implicit-representations](https://github.com/vsitzmann
 
 [3D-Aware Scene Manipulation via Inverse Graphics](https://proceedings.neurips.cc/paper/2018/file/64223ccf70bbb65a3a4aceac37e21016-Paper.pdf) (Yao et al., 2018) 
 
-[Efficient inverse graphics in biological face professing](https://advances.sciencemag.org/content/6/10/eaax5979) (Yildrim et al., 2020) 
+[Efficient inverse graphics in biological face professing](https://advances.sciencemag.org/content/6/10/eaax5979) (Yildirim et al., 2020) 
 
 [3D Morphable Face Models - Past, Present and Future](https://arxiv.org/pdf/1909.01815.pdf) (Egger et al., 2020) 
 
@@ -65,6 +65,8 @@ Adapted from the [awesome-implicit-representations](https://github.com/vsitzmann
 [Inverse Graphics GAN: Learning to Generate 3D Shapes from Unstructured 2D Data](https://arxiv.org/pdf/2002.12674.pdf) (Lunz et al., 2020)
 
 [Physics-as-Inverse Graphics: Unsupervised Physical Parameter Estimation from Video](https://arxiv.org/pdf/1905.11169.pdf) (Jaques, Burke, & Hospedales, 2020)
+
+[Perceiving Fully Occluded Objects via Physical Simulation](http://www.mit.edu/~ilkery/papers/perceiving-fully-occluded.pdf) (Yildirim, Siegel, & Tenenbaum, ??)
 
 # General Resources 
 
