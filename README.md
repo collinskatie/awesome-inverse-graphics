@@ -23,6 +23,8 @@ According to Yildrim et al. in their [2015 Cog Sci paper](http://www.mit.edu/~il
 
 [The Helmholtz Machine](https://www.cs.toronto.edu/~hinton/absps/helmholtz.pdf) (Dayan et al., 1995) 
 
+[Object Perception as Bayesian Inference](https://escholarship.org/content/qt9q6553kr/qt9q6553kr.pdf) (Kersten, Mamassian, & Yuille, 2004)
+
 [Vision as Bayesian Inference: Analysis by Synthesis?](https://escholarship.org/content/qt8cs5815x/qt8cs5815x.pdf?t=lnqqoj) (Yuille & Kersten, 2006) 
 
 [Analysis-by-Synthesis by Learning to Invert Generative Black Boxes](http://www.cs.toronto.edu/~fritz/absps/vinodicann.pdf) (Nair, Susskind, & Hinton, 2008) 
@@ -57,7 +59,11 @@ According to Yildrim et al. in their [2015 Cog Sci paper](http://www.mit.edu/~il
 
 [3D-Aware Scene Manipulation via Inverse Graphics](https://proceedings.neurips.cc/paper/2018/file/64223ccf70bbb65a3a4aceac37e21016-Paper.pdf) (Yao et al., 2018)
 
+[Visual Object Networks: Image Generation with Disentangled 3D Representation](https://papers.nips.cc/paper/2018/file/92cc227532d17e56e07902b254dfad10-Paper.pdf) (Zhu et al., 2018)
+
 [Neurocomputational Modeling of Human Physical Scene Understanding](http://cncl.yale.edu/sites/default/files/pub-downloads/CCN_2018_human_galileo.pdf) (Yildirim et al., 2018)
+
+[3D-RCNN: Instance-level 3D Object Reconstruction via Render-and-Compare](https://openaccess.thecvf.com/content_cvpr_2018/papers/Kundu_3D-RCNN_Instance-Level_3D_CVPR_2018_paper.pdf) (Kundu, Li, & Rehg, 2018)
 
 [An integrative computational architecture for object-driven cortex](http://cncl.yale.edu/sites/default/files/pub-downloads/YildirimetalCONEUR.pdf) (Yildirim et al., 2019) 
 
@@ -67,7 +73,9 @@ According to Yildrim et al. in their [2015 Cog Sci paper](http://www.mit.edu/~il
 
 [Building 3D Morphable Models from a Single Scan](https://arxiv.org/pdf/2011.12440v1.pdf) (Sutherland, Egger, & Tenenbaum, 2020) 
 
-[Image GANs meet Differentiable Rendering for Inverse Graphics and Interpretable 3D Neural Rendering](https://arxiv.org/pdf/2010.09125.pdf) (Zhang et al., 2020) 
+[Image GANs meet Differentiable Rendering for Inverse Graphics and Interpretable 3D Neural Rendering](https://arxiv.org/pdf/2010.09125.pdf) (Zhang et al., 2020)
+
+[Deep Nets: What have They Ever Done for Vision?](https://link.springer.com/article/10.1007/s11263-020-01405-z) (Yuille & Liu, 2020)
 
 [Inverse Graphics GAN: Learning to Generate 3D Shapes from Unstructured 2D Data](https://arxiv.org/pdf/2002.12674.pdf) (Lunz et al., 2020)
 
