@@ -54,6 +54,8 @@ Adapted from the [awesome-implicit-representations](https://github.com/vsitzmann
 
 [Efficient inverse graphics in biological face professing](https://advances.sciencemag.org/content/6/10/eaax5979) (Yildrim et al., 2020) 
 
+[Building 3D Morphable Models from a Single Scan](https://arxiv.org/pdf/2011.12440v1.pdf) (Sutherland, Egger, & Tenenbaum, 2020) 
+
 [Inverse Graphics GAN: Learning to Generate 3D Shapes from Unstructured 2D Data](https://arxiv.org/pdf/2002.12674.pdf) (Lunz et al., 2020)
 
 [Physics-as-Inverse Graphics: Unsupervised Physical Parameter Estimation from Video](https://arxiv.org/pdf/1905.11169.pdf) (Jaques, Burke, & Hospedales, 2020)
