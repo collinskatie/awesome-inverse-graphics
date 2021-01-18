@@ -44,6 +44,8 @@ Adapted from the [awesome-implicit-representations](https://github.com/vsitzmann
 
 [Deep Convolutional Inverse Graphics Network](http://papers.neurips.cc/paper/5851-deep-convolutional-inverse-graphics-network.pdf) (Kulkarni et al., 2015)
 
+[3D-R2N2: A Unified Approach for Single and Multi-view 3D Object Reconstruction](https://arxiv.org/pdf/1604.00449.pdf) (Choy et al., 2016) (fits here?)
+
 [Neural Scene De-Rendering](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8100227) (Wu, Tenenbaum, & Kohli, 2017) 
 
 [Vision-as-Inverse-Graphics: Obtaining a Rich 3D Explanation of a Scene from a Single Image](https://openaccess.thecvf.com/content_ICCV_2017_workshops/papers/w17/Romaszko_Vision-As-Inverse-Graphics_Obtaining_a_ICCV_2017_paper.pdf) (Romaszko et al., 2017)
@@ -54,7 +56,11 @@ Adapted from the [awesome-implicit-representations](https://github.com/vsitzmann
 
 [Efficient inverse graphics in biological face professing](https://advances.sciencemag.org/content/6/10/eaax5979) (Yildrim et al., 2020) 
 
+[3D Morphable Face Models - Past, Present and Future](https://arxiv.org/pdf/1909.01815.pdf) (Egger et al., 2020) 
+
 [Building 3D Morphable Models from a Single Scan](https://arxiv.org/pdf/2011.12440v1.pdf) (Sutherland, Egger, & Tenenbaum, 2020) 
+
+[Image GANs meet Differentiable Rendering for Inverse Graphics and Interpretable 3D Neural Rendering](https://arxiv.org/pdf/2010.09125.pdf) (Zhang et al., 2020) 
 
 [Inverse Graphics GAN: Learning to Generate 3D Shapes from Unstructured 2D Data](https://arxiv.org/pdf/2002.12674.pdf) (Lunz et al., 2020)
 
@@ -62,6 +68,9 @@ Adapted from the [awesome-implicit-representations](https://github.com/vsitzmann
 
 # General Resources 
 
+[Curated List of 3D Morphable Models](https://github.com/3d-morphable-models/curated-list-of-awesome-3D-Morphable-Model-software-and-data) 
+
+# Talks + Videos  
+
 [Does the Brain do Inverse Graphics?](http://www.cs.toronto.edu/~hinton/IPAM5.pdf) (Hinton, 2015) 
 
-# Videos + Talks 
