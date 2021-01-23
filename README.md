@@ -69,6 +69,8 @@ According to Yildrim et al. in their [2015 Cog Sci paper](http://www.mit.edu/~il
 
 [An integrative computational architecture for object-driven cortex](http://cncl.yale.edu/sites/default/files/pub-downloads/YildirimetalCONEUR.pdf) (Yildirim et al., 2019) 
 
+[Scene Representation Networks: Continuous 3D-Structure-Aware Neural Scene Representations](https://arxiv.org/pdf/1906.01618.pdf) (Sitzmann, Zollhofer, & Wetzstein, 2019) 
+
 [Efficient inverse graphics in biological face professing](https://advances.sciencemag.org/content/6/10/eaax5979) (Yildirim et al., 2020) 
 
 [3D Morphable Face Models - Past, Present and Future](https://arxiv.org/pdf/1909.01815.pdf) (Egger et al., 2020) 
@@ -83,6 +85,8 @@ According to Yildrim et al. in their [2015 Cog Sci paper](http://www.mit.edu/~il
 
 [Physics-as-Inverse Graphics: Unsupervised Physical Parameter Estimation from Video](https://arxiv.org/pdf/1905.11169.pdf) (Jaques, Burke, & Hospedales, 2020)
 
+[SDF-SRN: Learning Signed Distance 3D Object Reconstruction from Static Images](https://arxiv.org/pdf/2010.10505.pdf) (Lin, Wang, & Lucey, 2020) 
+
 # General Resources 
 
 [Curated List of 3D Morphable Models](https://github.com/3d-morphable-models/curated-list-of-awesome-3D-Morphable-Model-software-and-data) 
@@ -95,4 +99,7 @@ According to Yildrim et al. in their [2015 Cog Sci paper](http://www.mit.edu/~il
 # Talks + Videos  
 
 [Does the Brain do Inverse Graphics?](http://www.cs.toronto.edu/~hinton/IPAM5.pdf) (Hinton, 2015) 
+
+
+*Inspired by [Awesome Implicit Neural Representations](https://github.com/vsitzmann/awesome-implicit-representations) and [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision)
 
