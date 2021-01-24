@@ -23,6 +23,8 @@ According to Yildrim et al. in their [2015 Cog Sci paper](http://www.mit.edu/~il
 
 [The Helmholtz Machine](https://www.cs.toronto.edu/~hinton/absps/helmholtz.pdf) (Dayan et al., 1995) 
 
+[Generative models for discovering sparse distributed representations](https://royalsocietypublishing.org/doi/pdf/10.1098/rstb.1997.0101) (Hinton & Ghahramani, 1997) 
+
 [Object Perception as Bayesian Inference](https://escholarship.org/content/qt9q6553kr/qt9q6553kr.pdf) (Kersten, Mamassian, & Yuille, 2004)
 
 [Vision as Bayesian Inference: Analysis by Synthesis?](https://escholarship.org/content/qt8cs5815x/qt8cs5815x.pdf?t=lnqqoj) (Yuille & Kersten, 2006) 
@@ -45,9 +47,13 @@ According to Yildrim et al. in their [2015 Cog Sci paper](http://www.mit.edu/~il
 
 [Deep Convolutional Inverse Graphics Network](http://papers.neurips.cc/paper/5851-deep-convolutional-inverse-graphics-network.pdf) (Kulkarni et al., 2015)
 
+[Galileo: Perceiving physical object properties by integrating a physics engine with deep learning](http://www.mit.edu/~ilkery/papers/phys_nips.pdf) (Wu et al., 2015)
+
 [Perceiving Fully Occluded Objects via Physical Simulation](http://www.mit.edu/~ilkery/papers/perceiving-fully-occluded.pdf) (Yildirim, Siegel, & Tenenbaum, 2016)
 
 [Attend, Infer, Repeat: Fast Scene Understanding with Generative Models](https://arxiv.org/pdf/1603.08575.pdf) (Eslami et al., 2016)
+
+[Single Image 3D Interpreter Network](https://arxiv.org/pdf/1604.08685.pdf) (Wu et al., 2016) 
 
 [3D-R2N2: A Unified Approach for Single and Multi-view 3D Object Reconstruction](https://arxiv.org/pdf/1604.00449.pdf) (Choy et al., 2016) (fits here?)
 
@@ -70,6 +76,8 @@ According to Yildrim et al. in their [2015 Cog Sci paper](http://www.mit.edu/~il
 [An integrative computational architecture for object-driven cortex](http://cncl.yale.edu/sites/default/files/pub-downloads/YildirimetalCONEUR.pdf) (Yildirim et al., 2019) 
 
 [Scene Representation Networks: Continuous 3D-Structure-Aware Neural Scene Representations](https://arxiv.org/pdf/1906.01618.pdf) (Sitzmann, Zollhofer, & Wetzstein, 2019) 
+
+[IGE-Net: Inverse Graphics Energy Networks for Human Pose Estimation and Single-View Reconstruction](https://openaccess.thecvf.com/content_CVPR_2019/papers/Jack_IGE-Net_Inverse_Graphics_Energy_Networks_for_Human_Pose_Estimation_and_CVPR_2019_paper.pdf) (Jack et al., 2019)
 
 [Efficient inverse graphics in biological face professing](https://advances.sciencemag.org/content/6/10/eaax5979) (Yildirim et al., 2020) 
 
