@@ -15,11 +15,7 @@ According to Yildrim et al. in their [2015 Cog Sci paper](http://www.mit.edu/~il
 
 > The analysis-by-synthesis or “vision as inverse graphics” approach presents one way to think about how vision can be so rich in its content. The perceptual system models the generative processes by which natural scenes are constructed, as well as the process by which images are formed from scenes; this is a mechanism for the hypothetical “synthesis” of natural images, in the style of computer graphics. Perception (or “analysis”) is then the search for or inference to the best explanation of an observed image in terms of this synthesis model: What would have been the most likely underlying scene that could have produced this image?
 
-# Papers 
-
-## Foundations
-
-## Uncategorized 
+# Papers  
 
 [The Helmholtz Machine](https://www.cs.toronto.edu/~hinton/absps/helmholtz.pdf) (Dayan et al., 1995) 
 
@@ -77,6 +73,8 @@ According to Yildrim et al. in their [2015 Cog Sci paper](http://www.mit.edu/~il
 
 [Scene Representation Networks: Continuous 3D-Structure-Aware Neural Scene Representations](https://arxiv.org/pdf/1906.01618.pdf) (Sitzmann, Zollhofer, & Wetzstein, 2019) 
 
+[InverseRenderNet: Learning single image inverse rendering](https://openaccess.thecvf.com/content_CVPR_2019/papers/Yu_InverseRenderNet_Learning_Single_Image_Inverse_Rendering_CVPR_2019_paper.pdf) (Yu & Smith, 2019)
+
 [IGE-Net: Inverse Graphics Energy Networks for Human Pose Estimation and Single-View Reconstruction](https://openaccess.thecvf.com/content_CVPR_2019/papers/Jack_IGE-Net_Inverse_Graphics_Energy_Networks_for_Human_Pose_Estimation_and_CVPR_2019_paper.pdf) (Jack et al., 2019)
 
 [Efficient inverse graphics in biological face professing](https://advances.sciencemag.org/content/6/10/eaax5979) (Yildirim et al., 2020) 
@@ -105,6 +103,8 @@ According to Yildrim et al. in their [2015 Cog Sci paper](http://www.mit.edu/~il
 
 
 # Talks + Videos  
+
+[What is an inverse problem?](https://www.youtube.com/watch?v=RBx9D2vhGyc)
 
 [Does the Brain do Inverse Graphics?](http://www.cs.toronto.edu/~hinton/IPAM5.pdf) (Hinton, 2015) 
 
