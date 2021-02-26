@@ -123,6 +123,8 @@ According to Yildrim et al. in their [2015 Cog Sci paper](http://www.mit.edu/~il
 
 [AI for 3D Content Creation](https://www.youtube.com/watch?v=pTTxPq8uZmg) (Fidler, 2020)
 
+[Implicit Neural Representations](https://www.youtube.com/watch?v=Or9J-DCDGko&t=3s) (Sitzmann, 2020)
+
 [Integrating Learning and Graphics for 3D Scene Understanding](https://www.youtube.com/watch?v=-ltAta-No7w) (Wu, 2020)
 
 [Common Sense Reasoning through Causal Probabilistic Programming](https://www.youtube.com/watch?v=neCwSmbmmic) (Tavares, 2020)
