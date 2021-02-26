@@ -1,8 +1,6 @@
 # Awesome Inverse Graphics 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-[Under construction!]
-
 This is a curated list of resources and papers related to inverse graphics.  
 
 This list will most certainly miss things, so please feel free to add a pull request or contact me directly at katiemc@mit.edu. 
@@ -51,7 +49,7 @@ According to Yildrim et al. in their [2015 Cog Sci paper](http://www.mit.edu/~il
 
 [Single Image 3D Interpreter Network](https://arxiv.org/pdf/1604.08685.pdf) (Wu et al., 2016) 
 
-[3D-R2N2: A Unified Approach for Single and Multi-view 3D Object Reconstruction](https://arxiv.org/pdf/1604.00449.pdf) (Choy et al., 2016) (fits here?)
+[3D-R2N2: A Unified Approach for Single and Multi-view 3D Object Reconstruction](https://arxiv.org/pdf/1604.00449.pdf) (Choy et al., 2016)
 
 [Neural Scene De-Rendering](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8100227) (Wu, Tenenbaum, & Kohli, 2017) 
 
@@ -68,6 +66,8 @@ According to Yildrim et al. in their [2015 Cog Sci paper](http://www.mit.edu/~il
 [Neurocomputational Modeling of Human Physical Scene Understanding](http://cncl.yale.edu/sites/default/files/pub-downloads/CCN_2018_human_galileo.pdf) (Yildirim et al., 2018)
 
 [3D-RCNN: Instance-level 3D Object Reconstruction via Render-and-Compare](https://openaccess.thecvf.com/content_cvpr_2018/papers/Kundu_3D-RCNN_Instance-Level_3D_CVPR_2018_paper.pdf) (Kundu, Li, & Rehg, 2018)
+
+[Learning to Reconstruct Shapes from Unseen Classes](http://genre.csail.mit.edu/papers/genre_nips.pdf) (Zhang et al., 2018)
 
 [An integrative computational architecture for object-driven cortex](http://cncl.yale.edu/sites/default/files/pub-downloads/YildirimetalCONEUR.pdf) (Yildirim et al., 2019) 
 
@@ -103,10 +103,29 @@ According to Yildrim et al. in their [2015 Cog Sci paper](http://www.mit.edu/~il
 
 [A Stochastic Grammar of Images](https://dash.harvard.edu/bitstream/handle/1/3637153/Mumford_StochaGrammImage.pdf?sequence%3D2) (Zhu & Momford, 2007)
 
+[Machine Learning for Machine Vision as Inverse Graphics Course](http://www.cs.toronto.edu/~bonner/courses/2020s/csc2547/) (Bonner, 2020)
 
 # Talks + Videos  
 
 [Does the Brain do Inverse Graphics?](http://www.cs.toronto.edu/~hinton/IPAM5.pdf) (Hinton, 2015) 
+
+[Probabilistic Programming for Augmented Intelligence](https://www.youtube.com/watch?v=Rte-y6ThwAQ) (Mansinghka, 2016)
+
+[Computational Models of Cognition](https://www.youtube.com/watch?v=VPT73em9Nuc) (Tenenbaum, 2018)
+
+[Inverse Programming for Deeper AI](https://www.youtube.com/watch?v=5X8cg5trO5Y) (Tavares TWIML podcast interview, 2018)
+
+[Learning to Solve Inverse Problems in Imaging](https://www.youtube.com/watch?v=ABH5KN5DTuc) (Willet, 2019)
+
+[Reverse-engineerring Core Common Sense](https://www.youtube.com/watch?v=Bi7_6yA1LTs) (Tenenbaum, 2020)
+
+[Compositional Models and Occlusion](https://www.youtube.com/watch?v=Ov_FHrEM71s) (Yuille, 2020)
+
+[AI for 3D Content Creation](https://www.youtube.com/watch?v=pTTxPq8uZmg) (Fidler, 2020)
+
+[Integrating Learning and Graphics for 3D Scene Understanding](https://www.youtube.com/watch?v=-ltAta-No7w) (Wu, 2020)
+
+[Common Sense Reasoning through Causal Probabilistic Programming](https://www.youtube.com/watch?v=neCwSmbmmic) (Tavares, 2020)
 
 
 *Inspired by [Awesome Implicit Neural Representations](https://github.com/vsitzmann/awesome-implicit-representations) and [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision). And a huge thanks to [Bernhard Egger](https://eggerbernhard.ch/) for help with the list, as well! 
