@@ -107,7 +107,7 @@ According to Yildrim et al. in their [2015 Cog Sci paper](http://www.mit.edu/~il
 
 # Talks + Videos  
 
-[Does the Brain do Inverse Graphics?](http://www.cs.toronto.edu/~hinton/IPAM5.pdf) (Hinton, 2015) 
+[Does the Brain Do Inverse Graphics?](http://www.cs.toronto.edu/~hinton/IPAM5.pdf) (Hinton, 2015) 
 
 [Probabilistic Programming for Augmented Intelligence](https://www.youtube.com/watch?v=Rte-y6ThwAQ) (Mansinghka, 2016)
 
