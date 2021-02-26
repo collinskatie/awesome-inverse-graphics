@@ -121,7 +121,7 @@ According to Yildrim et al. in their [2015 Cog Sci paper](http://www.mit.edu/~il
 
 [Machine Learning for Machine Vision as Inverse Graphics Course](http://www.cs.toronto.edu/~bonner/courses/2020s/csc2547/) (Bonner, 2020)
 
-# Talks + Videos  
+# Related Talks + Videos  
 
 [Does the Brain Do Inverse Graphics?](http://www.cs.toronto.edu/~hinton/IPAM5.pdf) (Hinton, 2015) 
 
