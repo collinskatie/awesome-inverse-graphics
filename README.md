@@ -109,5 +109,5 @@ According to Yildrim et al. in their [2015 Cog Sci paper](http://www.mit.edu/~il
 [Does the Brain do Inverse Graphics?](http://www.cs.toronto.edu/~hinton/IPAM5.pdf) (Hinton, 2015) 
 
 
-*Inspired by [Awesome Implicit Neural Representations](https://github.com/vsitzmann/awesome-implicit-representations) and [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision) Thanks to Bernhard Egger(https://eggerbernhard.ch/) for help with the list, as well! 
+*Inspired by [Awesome Implicit Neural Representations](https://github.com/vsitzmann/awesome-implicit-representations) and [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision). And a huge thanks to Bernhard Egger(https://eggerbernhard.ch/) for help with the list, as well! 
 
