@@ -95,6 +95,8 @@ According to Yildrim et al. in their [2015 Cog Sci paper](http://www.mit.edu/~il
 
 # General Resources 
 
+[What is an Inverse Problem?](https://www.youtube.com/watch?v=RBx9D2vhGyc)
+
 [Curated List of 3D Morphable Models](https://github.com/3d-morphable-models/curated-list-of-awesome-3D-Morphable-Model-software-and-data) 
 
 [Pattern Synthesis](https://www.springer.com/gp/book/9780387901749) (Grenander, 1976) 
@@ -103,8 +105,6 @@ According to Yildrim et al. in their [2015 Cog Sci paper](http://www.mit.edu/~il
 
 
 # Talks + Videos  
-
-[What is an inverse problem?](https://www.youtube.com/watch?v=RBx9D2vhGyc)
 
 [Does the Brain do Inverse Graphics?](http://www.cs.toronto.edu/~hinton/IPAM5.pdf) (Hinton, 2015) 
 
