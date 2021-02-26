@@ -19,6 +19,8 @@ According to Yildrim et al. in their [2015 Cog Sci paper](http://www.mit.edu/~il
 
 [Generative models for discovering sparse distributed representations](https://royalsocietypublishing.org/doi/pdf/10.1098/rstb.1997.0101) (Hinton & Ghahramani, 1997) 
 
+[Instantiating Deformable Models with a Neural Net](https://papers.nips.cc/paper/1994/file/fba9d88164f3e2d9109ee770223212a0-Paper.pdf) (Williams, Revow, & Hinton, 1997)
+
 [Object Perception as Bayesian Inference](https://escholarship.org/content/qt9q6553kr/qt9q6553kr.pdf) (Kersten, Mamassian, & Yuille, 2004)
 
 [Vision as Bayesian Inference: Analysis by Synthesis?](https://escholarship.org/content/qt8cs5815x/qt8cs5815x.pdf?t=lnqqoj) (Yuille & Kersten, 2006) 
@@ -51,6 +53,8 @@ According to Yildrim et al. in their [2015 Cog Sci paper](http://www.mit.edu/~il
 
 [3D-R2N2: A Unified Approach for Single and Multi-view 3D Object Reconstruction](https://arxiv.org/pdf/1604.00449.pdf) (Choy et al., 2016)
 
+[Overcoming Occlusion with Inverse Graphics](https://link.springer.com/chapter/10.1007/978-3-319-49409-8_16) (Moreno et al., 2016)
+
 [Neural Scene De-Rendering](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8100227) (Wu, Tenenbaum, & Kohli, 2017) 
 
 [Vision-as-Inverse-Graphics: Obtaining a Rich 3D Explanation of a Scene from a Single Image](https://openaccess.thecvf.com/content_ICCV_2017_workshops/papers/w17/Romaszko_Vision-As-Inverse-Graphics_Obtaining_a_ICCV_2017_paper.pdf) (Romaszko et al., 2017)
@@ -65,6 +69,8 @@ According to Yildrim et al. in their [2015 Cog Sci paper](http://www.mit.edu/~il
 
 [Neurocomputational Modeling of Human Physical Scene Understanding](http://cncl.yale.edu/sites/default/files/pub-downloads/CCN_2018_human_galileo.pdf) (Yildirim et al., 2018)
 
+[Learning to Infer Graphics Programs from Hand-Drawn Images](http://people.csail.mit.edu/asolar/papers/EllisRST18.pdf) (Ellis et al., 2018)
+
 [3D-RCNN: Instance-level 3D Object Reconstruction via Render-and-Compare](https://openaccess.thecvf.com/content_cvpr_2018/papers/Kundu_3D-RCNN_Instance-Level_3D_CVPR_2018_paper.pdf) (Kundu, Li, & Rehg, 2018)
 
 [Learning to Reconstruct Shapes from Unseen Classes](http://genre.csail.mit.edu/papers/genre_nips.pdf) (Zhang et al., 2018)
@@ -76,6 +82,8 @@ According to Yildrim et al. in their [2015 Cog Sci paper](http://www.mit.edu/~il
 [InverseRenderNet: Learning single image inverse rendering](https://openaccess.thecvf.com/content_CVPR_2019/papers/Yu_InverseRenderNet_Learning_Single_Image_Inverse_Rendering_CVPR_2019_paper.pdf) (Yu & Smith, 2019)
 
 [IGE-Net: Inverse Graphics Energy Networks for Human Pose Estimation and Single-View Reconstruction](https://openaccess.thecvf.com/content_CVPR_2019/papers/Jack_IGE-Net_Inverse_Graphics_Energy_Networks_for_Human_Pose_Estimation_and_CVPR_2019_paper.pdf) (Jack et al., 2019)
+
+[Write, Execute, Assess: Program Synthesis with a REPL](https://proceedings.neurips.cc/paper/2019/file/50d2d2262762648589b1943078712aa6-Paper.pdf) (Ellis et al., 2019)
 
 [Efficient inverse graphics in biological face professing](https://advances.sciencemag.org/content/6/10/eaax5979) (Yildirim et al., 2020) 
 
@@ -91,7 +99,13 @@ According to Yildrim et al. in their [2015 Cog Sci paper](http://www.mit.edu/~il
 
 [Physics-as-Inverse Graphics: Unsupervised Physical Parameter Estimation from Video](https://arxiv.org/pdf/1905.11169.pdf) (Jaques, Burke, & Hospedales, 2020)
 
+[DreamCoder: Growing generalizable, interpretable knowledge with wake-sleep Bayesian program learning](https://arxiv.org/pdf/2006.08381.pdf) (Ellis et al., 2020)
+
 [SDF-SRN: Learning Signed Distance 3D Object Reconstruction from Static Images](https://arxiv.org/pdf/2010.10505.pdf) (Lin, Wang, & Lucey, 2020) 
+
+[Cycle-Consistent Generative Rendering for 2D-3D Modality Transition](https://arxiv.org/pdf/2011.08026.pdf) (Aumentado-Armstrong et al., 2020)
+
+[A-NeRF: Surface-free Human 3D Pose Refinement via Neural Rendering](https://arxiv.org/pdf/2102.06199.pdf) (Su et al., 2021) 
 
 # General Resources 
 
@@ -102,6 +116,8 @@ According to Yildrim et al. in their [2015 Cog Sci paper](http://www.mit.edu/~il
 [Pattern Synthesis](https://www.springer.com/gp/book/9780387901749) (Grenander, 1976) 
 
 [A Stochastic Grammar of Images](https://dash.harvard.edu/bitstream/handle/1/3637153/Mumford_StochaGrammImage.pdf?sequence%3D2) (Zhu & Momford, 2007)
+
+[Vision as Inverse Graphics for Detailed Scene Understanding](http://www.cs.toronto.edu/~bonner/courses/2020s/csc2547/papers/generative/inverse-graphics/detailed-scene-understanding,-Moreno-Comellas,-thesis-2019.pdf) (Moreno, 2019)
 
 [Machine Learning for Machine Vision as Inverse Graphics Course](http://www.cs.toronto.edu/~bonner/courses/2020s/csc2547/) (Bonner, 2020)
 
@@ -114,6 +130,8 @@ According to Yildrim et al. in their [2015 Cog Sci paper](http://www.mit.edu/~il
 [Computational Models of Cognition](https://www.youtube.com/watch?v=VPT73em9Nuc) (Tenenbaum, 2018)
 
 [Inverse Programming for Deeper AI](https://www.youtube.com/watch?v=5X8cg5trO5Y) (Tavares TWIML podcast interview, 2018)
+
+[Solving Inverse Graphics Problems In-the-Wild](https://www.youtube.com/watch?v=Zmte9dlwdWs&feature=emb_logo) (Kanazawa, 2018)
 
 [Learning to Solve Inverse Problems in Imaging](https://www.youtube.com/watch?v=ABH5KN5DTuc) (Willet, 2019)
 
