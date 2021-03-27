@@ -85,6 +85,8 @@ According to Yildrim et al. in their [2015 Cog Sci paper](http://www.mit.edu/~il
 
 [Write, Execute, Assess: Program Synthesis with a REPL](https://proceedings.neurips.cc/paper/2019/file/50d2d2262762648589b1943078712aa6-Paper.pdf) (Ellis et al., 2019)
 
+[A Neural-Symbolic Architecture for Inverse Graphics Improved by Lifelong Meta-Learning](https://arxiv.org/pdf/1905.08910.pdf) (Kissner & Mayer, 2019)
+
 [Efficient inverse graphics in biological face professing](https://advances.sciencemag.org/content/6/10/eaax5979) (Yildirim et al., 2020) 
 
 [3D Morphable Face Models - Past, Present and Future](https://arxiv.org/pdf/1909.01815.pdf) (Egger et al., 2020) 
@@ -104,8 +106,6 @@ According to Yildrim et al. in their [2015 Cog Sci paper](http://www.mit.edu/~il
 [SDF-SRN: Learning Signed Distance 3D Object Reconstruction from Static Images](https://arxiv.org/pdf/2010.10505.pdf) (Lin, Wang, & Lucey, 2020) 
 
 [Cycle-Consistent Generative Rendering for 2D-3D Modality Transition](https://arxiv.org/pdf/2011.08026.pdf) (Aumentado-Armstrong et al., 2020)
-
-[A-NeRF: Surface-free Human 3D Pose Refinement via Neural Rendering](https://arxiv.org/pdf/2102.06199.pdf) (Su et al., 2021) 
 
 # General Resources 
 
